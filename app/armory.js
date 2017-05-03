@@ -287,4 +287,3 @@ var GameProgressArmorGroup = (function () {
     return GameProgressArmorGroup;
 }());
 exports.GameProgressArmorGroup = GameProgressArmorGroup;
-//# sourceMappingURL=armory.js.map

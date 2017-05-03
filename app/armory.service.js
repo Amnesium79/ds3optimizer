@@ -6718,4 +6718,3 @@ var ARMORY = {
         }
     ]
 };
-//# sourceMappingURL=armory.service.js.map
